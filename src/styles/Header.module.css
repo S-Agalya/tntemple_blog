@@ -1,0 +1,35 @@
+/* styles.module.css (if using CSS modules) */
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px; 
+    width:30%;
+   
+     border-radius: 30px;
+    border: 1px solid #ccc;
+    margin: 50px auto;
+  }
+  
+  .links {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .links a {
+    margin-right: 15px; /* Adjust the right margin to create space between links */
+    text-decoration: none;
+    color: #333; /* Link color */
+  }
+  @media (max-width: 768px) {
+    .box {
+      height: 40px; 
+      width:60%;
+    }
+    .links{
+        font-size: 10px;
+    }
+  }
+  

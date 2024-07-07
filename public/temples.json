@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "name": "Meenakshi Amman Temple",
+      "description": "An ancient Hindu temple dedicated to Goddess Meenakshi and her consort, Lord Sundareswarar.",
+      "location": "Madurai, Tamil Nadu"
+    },
+    {
+      "id": 2,
+      "name": "Ramanathaswamy Temple",
+      "description": "A famous pilgrimage site dedicated to Lord Shiva, known for its sacred waters and longest temple corridor.",
+      "location": "Rameswaram, Tamil Nadu"
+    },
+    {
+      "id": 3,
+      "name": "Brihadeeswarar Temple",
+      "description": "A UNESCO World Heritage Site known for its grand architecture and one of the largest Shiva temples in India.",
+      "location": "Thanjavur, Tamil Nadu"
+    },
+    {
+      "id": 4,
+      "name": "Kapaleeshwarar Temple",
+      "description": "A renowned temple dedicated to Lord Shiva, known for its Dravidian architecture and vibrant festivals.",
+      "location": "Chennai, Tamil Nadu"
+    },
+    {
+      "id": 5,
+      "name": "Kanchi Kailasanathar Temple",
+      "description": "One of the oldest Hindu temples in Kanchipuram dedicated to Lord Shiva.",
+      "location": "Kanchipuram, Tamil Nadu"
+    },
+    {
+      "id": 6,
+      "name": "Thillai Nataraja Temple",
+      "description": "A historic temple dedicated to Lord Shiva as Nataraja, known for its classical dance form and intricate architecture.",
+      "location": "Chidambaram, Tamil Nadu"
+    },
+    {
+      "id": 7,
+      "name": "Sri Ranganathaswamy Temple",
+      "description": "One of the largest temple complexes in India dedicated to Lord Vishnu, featuring seven concentric enclosures.",
+      "location": "Srirangam, Tamil Nadu"
+    },
+    {
+      "id": 8,
+      "name": "Palani Murugan Temple",
+      "description": "A hill temple dedicated to Lord Murugan, known for its scenic location and pilgrimage importance.",
+      "location": "Palani, Tamil Nadu"
+    },
+    {
+      "id": 9,
+      "name": "Madurai Koodal Azhagar Temple",
+      "description": "A Vaishnavite temple dedicated to Lord Vishnu, known for its beautiful sculptures and spiritual significance.",
+      "location": "Madurai, Tamil Nadu"
+    },
+    {
+      "id": 10,
+      "name": "Ekambareswarar Temple",
+      "description": "A temple dedicated to Lord Shiva, known for its ancient mango tree and architectural splendor.",
+      "location": "Kanchipuram, Tamil Nadu"
+    },
+    {
+      "id": 11,
+      "name": "Marundeeswarar Temple",
+      "description": "A temple dedicated to Lord Shiva, known for its medicinal properties and healing powers.",
+      "location": "Chennai, Tamil Nadu"
+    },
+    {
+      "id": 12,
+      "name": "Nellaiappar Temple",
+      "description": "A prominent temple dedicated to Lord Shiva and Goddess Parvati, known for its musical pillars.",
+      "location": "Tirunelveli, Tamil Nadu"
+    },
+    {
+      "id": 13,
+      "name": "Kumari Amman Temple",
+      "description": "A coastal Hindu temple dedicated to Goddess Kumari Amman, known for its scenic views and annual festival.",
+      "location": "Kanyakumari, Tamil Nadu"
+    },
+    {
+      "id": 14,
+      "name": "Arunachalesvara Temple",
+      "description": "A hill temple dedicated to Lord Shiva, known for its grand rituals and the Karthigai Deepam festival.",
+      "location": "Thiruvannamalai, Tamil Nadu"
+    },
+    {
+      "id": 15,
+      "name": "Jambukeswarar Temple",
+      "description": "A temple dedicated to Lord Shiva, known for its water-filled sanctum and religious significance.",
+      "location": "Tiruchirappalli, Tamil Nadu"
+    }
+  ]
+  
